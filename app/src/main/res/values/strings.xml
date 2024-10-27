@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MADTLab3</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_back">⌫</string>
+    <string name="btn_sqrt">√</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_sum">+</string>
+    <string name="btn_sign_change">±</string>
 </resources>
